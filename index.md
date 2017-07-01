@@ -1,3 +1,5 @@
 ## Demo Links 
-
+<a href="https://click.samplits.com?dl=274c4ce" onclick="window.open('https://click.samplits.com?dl=274c4ce', 'newwindow', 'width=600, height=450'); return false;">Window</a>
+<br>
+<a href="https://click.samplits.com?dl=274c4ce"> New Tab </a>
 
